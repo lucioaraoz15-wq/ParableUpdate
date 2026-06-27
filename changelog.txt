@@ -1,0 +1,4 @@
+- Added profile panel
+- Added theme selector
+- Added exit animation
+- Improved auto updater
