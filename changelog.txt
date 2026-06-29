@@ -1,4 +1,7 @@
-- Added profile panel
-- Added theme selector
-- Added exit animation
-- Improved auto updater
+Parable Tool v1.0.2
+
+- Mejorado sistema de sesión.
+- Mejorado auto updater.
+- Agregado logout.
+- Corregidos errores del menú.
+- Mejor rendimiento.
