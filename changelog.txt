@@ -1,7 +1,8 @@
-Parable Tool v1.0.2
+Parable Tool v1.0.3
 
 - Mejorado sistema de sesión.
 - Mejorado auto updater.
 - Agregado logout.
 - Corregidos errores del menú.
 - Mejor rendimiento.
+- Se arreglo el guardar sesion
