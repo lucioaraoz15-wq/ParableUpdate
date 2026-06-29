@@ -1,4 +1,4 @@
-Parable Tool v1.0.3
+Parable Tool v1.0.4
 
 - Mejorado sistema de sesión.
 - Mejorado auto updater.
